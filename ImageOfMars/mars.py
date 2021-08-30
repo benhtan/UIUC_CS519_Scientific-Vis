@@ -14,5 +14,5 @@ mars_gray = mpimg.imread('mars.png')
 
 
 
-
+# plt.matshow(mars_gray)
 # plt.matshow(mars_red)
